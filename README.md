@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently a Computer Science Student going into my last year
-- ✨ Right now, I am learning Java, Python, C++, SQL, django, and Node.js
+- ✨ Right now, I am learning Java, Python, C++, SQL, HTML, CSS, and Javascript
 - 👯 I’m looking to collaborate on mobile applications, web development, and any computer related software
 - ⚡ Other things I like to do besides programming includes listening to music(rock, pop, rap, hip-hop, classical), playing the piano and violin, watching anime, and video games (mainly fps games like COD and Siege)
 - 📫 You can reach me through github. Just send me a message. I check very often.
